@@ -10,6 +10,10 @@ openai
 langchain-anthropic
 anthropic
 
+# gemini integration
+langchain-google-genai
+google-generativeai
+
 # hugging face
 langchain-huggingface
 transformers
