@@ -19,6 +19,20 @@ langchain-huggingface
 transformers
 huggingface-hub
 
+# RAG and Vector Database
+chromadb
+langchain-chroma
+sentence-transformers
+
+# PDF Processing - FIXED VERSIONS
+pypdf
+pymupdf
+langchain-community
+
+# Web Framework
+streamlit
+gradio
+
 # envioronmanet variable management
 python-dotenv
 
